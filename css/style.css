@@ -3,7 +3,7 @@
 /*============================================================================================================================*/
 body {
     font-family: "Lato";
-    font-style: 400;
+    font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 160%;
@@ -43,7 +43,7 @@ ul {
 }
 .footer {
     text-align: center;
-    margin: 30 auto;
+    margin: 30px auto;
     font-size: 40px;
     letter-spacing: 50px;
 }
